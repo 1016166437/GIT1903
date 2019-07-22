@@ -1,3 +1,2 @@
 <?php
-echo 'this is the first commit';
-echo 'this is the second commit';
+echo '第一次第一次第一次';
